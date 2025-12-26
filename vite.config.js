@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/calorie-counter-pj2/",
+  base: "/calorie-counter/",
 });
