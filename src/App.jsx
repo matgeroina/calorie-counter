@@ -10,7 +10,6 @@ export default function App() {
       <header className="header">
         <div>
           <h1>Calorie Counter</h1>
-          <p className="muted">React SPA (localStorage)</p>
         </div>
 
         <nav className="nav">
